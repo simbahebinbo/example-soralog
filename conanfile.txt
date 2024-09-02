@@ -1,0 +1,11 @@
+[requires]
+soralog/0.2.3
+fmt/10.1.1
+yaml-cpp/0.6.3
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
